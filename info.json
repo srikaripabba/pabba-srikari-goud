@@ -1,0 +1,53 @@
+{
+    "Courses": [
+      {
+        "Semester": "II",
+        "Section": "I",
+        "Course_Title": "Operating System",
+        "Link": "Click here"
+      },
+      {
+        "Semester": "II",
+        "Section": "I",
+        "Course_Title": "Java Programming",
+        "Link": "Click here"
+      },
+      {
+        "Semester": "II",
+        "Section": "I",
+        "Course_Title": "Object Oriented Software Engineering",
+        "Link": "Click here"
+      },
+      {
+        "Semester": "II",
+        "Section": "I",
+        "Course_Title": "Discrete Mathematics",
+        "Link": "Click here"
+      },
+      {
+        "Semester": "II",
+        "Section": "I",
+        "Course_Title": "Computer Networks",
+        "Link": "Click here"
+      },
+      {
+        "Semester": "II",
+        "Section": "I",
+        "Course_Title": "Financial Accounting and Management",
+        "Link": "Click here"
+      },
+      {
+        "Semester": "II",
+        "Section": "I",
+        "Course_Title": "Design And Analysis Of Algorithms",
+        "Link": "Click here"
+      },
+      {
+        "Semester": "II",
+        "Section": "I",
+        "Course_Title": "Database Management System",
+        "Link": "Click here"
+      }
+    ]
+  }
+  
